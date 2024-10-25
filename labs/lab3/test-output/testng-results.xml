@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9701" started-at="2024-03-11T14:31:18Z" finished-at="2024-03-11T14:31:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9701" started-at="2024-03-11T14:31:18Z" finished-at="2024-03-11T14:31:28Z">
+      <class name="test.Q5_Part1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.Q5_Part1@64c64813]" name="openBrowser" duration-ms="4268" started-at="2024-03-11T10:31:18Z" finished-at="2024-03-11T10:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="launchGoogle()[pri:0, instance:test.Q5_Part1@64c64813]" name="launchGoogle" duration-ms="1760" started-at="2024-03-11T10:31:22Z" finished-at="2024-03-11T10:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+        <test-method status="PASS" signature="peformSeachAndClick1stLink()[pri:0, instance:test.Q5_Part1@64c64813]" name="peformSeachAndClick1stLink" duration-ms="2105" started-at="2024-03-11T10:31:24Z" finished-at="2024-03-11T10:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformSeachAndClick1stLink -->
+        <test-method status="PASS" signature="FaceBookPageTitleVerification()[pri:0, instance:test.Q5_Part1@64c64813]" name="FaceBookPageTitleVerification" duration-ms="6" started-at="2024-03-11T10:31:26Z" finished-at="2024-03-11T10:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FaceBookPageTitleVerification -->
+        <test-method status="PASS" signature="driverexit()[pri:0, instance:test.Q5_Part1@64c64813]" name="driverexit" duration-ms="1552" started-at="2024-03-11T10:31:26Z" finished-at="2024-03-11T10:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverexit -->
+      </class> <!-- test.Q5_Part1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
